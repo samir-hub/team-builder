@@ -1,0 +1,12 @@
+.team-list {
+    display: flex; 
+    width: 100%;
+    flex-wrap: wrap; 
+    justify-content: center; 
+}
+
+.member {
+    background: gray;
+    width: 40%;
+    margin: 3%;
+}
